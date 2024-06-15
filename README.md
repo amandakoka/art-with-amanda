@@ -168,7 +168,14 @@ User feedback remains an important part of Art with Amanda's ongoing development
 | 24 | Store Owner | Delete a product | remove items that are no longer for sale. |
 
 ## Database schema 
+
 ## Wireframes
+In the initial stages of designing Art with Amanda, I created rough sketches to visualize the layout and structure of the website. These sketches served as a blueprint for the final wireframes and helped shape the overall user experience. Below are the images of these sketches:
+- [Photo 1](documentation/Wireframes1/IMG_3139.jpg)
+- [Photo 2](documentation/Wireframes1/IMG_3140_2.jpg)
+- [Photo 3](documentation/Wireframes1/IMG_3141_2.jpg)
+- [Photo 4](documentation/Wireframes1/IMG_3142_2.jpg)
+
 ## Colour Schemes
 ## Typography 
 ## Imagery
