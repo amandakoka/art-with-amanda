@@ -103,10 +103,10 @@ After collecting extensive feedback from both my Instagram community and prelimi
     - Users expect a seamless experience across all devices
 
 #### Screenshots of Questions:
-- [Question 1 Screenshot](documentation/UserFeedback/Q1.JPG)
-- [Question 2 Screenshot](documentation/UserFeedback/Q2.JPG)
-- [Question 3 Screenshot](documentation/UserFeedback/Q3.JPG)
-- [Question 4 Screenshot](documentation/UserFeedback/Q4.JPG)
+- [Question 1 Screenshot](documentation/UserFeedbackQS/Q1.JPG)
+- [Question 2 Screenshot](documentation/UserFeedbackQS/Q2.JPG)
+- [Question 3 Screenshot](documentation/UserFeedbackQS/Q3.JPG)
+- [Question 4 Screenshot](documentation/UserFeedbackQS/Q4.JPG)
 
 ### Poll Results
 
