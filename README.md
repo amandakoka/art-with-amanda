@@ -95,7 +95,7 @@ After collecting extensive feedback from both my Instagram community and prelimi
 
 3. **What design elements do you prefer in an art selling website?**
     - Clean and minimalist design
-    - High-contrast color schemes to highlight the artwork
+    - High-contrast colour schemes to highlight the artwork
     - Intuitive layout with easy access to different sections
 
 4. **How important is mobile responsiveness to your browsing experience?**
@@ -128,7 +128,7 @@ User feedback played a crucial role in shaping the development of Art with Amand
 
 - **Mobile Responsiveness**: Optimized the website to ensure a seamless browsing and shopping experience across various devices and screen sizes.
 
-- **Design Choices**: For aspects like typography and color schemes, I provided options that I liked and then asked the Instagram community to vote on their preferences. This collaborative approach ensured that the final design elements resonated well with the broader audience while still reflecting my artistic vision.
+- **Design Choices**: For aspects like typography and colour schemes, I provided options that I liked and then asked the Instagram community to vote on their preferences. This collaborative approach ensured that the final design elements resonated well with the broader audience while still reflecting my artistic vision.
 
 ### Continuous Improvement
 
@@ -194,22 +194,20 @@ With the wireframes finalized, I used them as a blueprint during the development
 
 ## Colour Schemes
 
-In developing the Art with Amanda website, I prioritized a modern and simplistic design to ensure that my artwork remains the focal point. Based on user feedback, I selected a color palette consisting of different shades of white and black. This neutral color scheme helps to create a clean, elegant, and professional look that doesn't distract from the art photos.
+In developing the Art with Amanda website, I prioritized a modern and simplistic design to ensure that my artwork remains the focal point. Based on user feedback, I selected a colour palette consisting of different shades of white and black. This neutral colour scheme helps to create a clean, elegant, and professional look that doesn't distract from the art photos.
 
-![Color Palette](documentation/colourpalette.png)
+The following is an overview of how the colour scheme is applied across different sections of the website:
 
-The following is an overview of how the color scheme is applied across different sections of the website:
-
-- **Backgrounds**: The primary background color is white, providing a bright and clean canvas for the artwork.
-- **Text**: The main text color is black, and white on dark backgrounds, ensuring high readability and contrast.
+- **Backgrounds**: The primary background colour is white, providing a bright and clean canvas for the artwork.
+- **Text**: The main text colour is black, and white on dark backgrounds, ensuring high readability and contrast.
 - **Borders and Dividers**: A light grey is used for subtle borders and dividers, adding structure to the layout without drawing attention away from the artwork.
 - **Buttons and Links**: Buttons and interactive elements are styled in a black shade to stand out and be easily identifiable.
 
 ### User Feedback Integration
 
-The decision to use a simple and neutral color scheme was directly influenced by user feedback. Through preliminary discussions and Instagram polls, users expressed a preference for a minimalist design that highlights the artwork rather than the website itself. By adopting this feedback, the final color scheme enhances the user experience and ensures that the artwork remains the central focus of the site.
+The decision to use a simple and neutral colour scheme was directly influenced by user feedback. Through preliminary discussions and Instagram polls, users expressed a preference for a minimalist design that highlights the artwork rather than the website itself. By adopting this feedback, the final colour scheme enhances the user experience and ensures that the artwork remains the central focus of the site.
 
-By maintaining a consistent and simplistic color scheme, the website provides a cohesive and enjoyable user experience that directs attention to the artwork while ensuring readability and ease of navigation.
+By maintaining a consistent and simplistic colour scheme, the website provides a cohesive and enjoyable user experience that directs attention to the artwork while ensuring readability and ease of navigation.
 
 ## Typography
 
@@ -235,9 +233,9 @@ The imagery for the Art with Amanda website plays a crucial role in showcasing t
 
 ### Photography Process
 
-1. **Capture**: Using the iPhone 12, I carefully photograph each artwork to ensure that the colors are accurate and the details are captured as they appear in real life.
+1. **Capture**: Using the iPhone 12, I carefully photograph each artwork to ensure that the colours are accurate and the details are captured as they appear in real life.
    
-2. **Minimal Editing**: After capturing the photos, I may do some simple edits to enhance the photograph and ensure it accurately represents the artwork's beauty. This may include adjusting brightness, contrast, and color saturation to match the artwork's true appearance.
+2. **Minimal Editing**: After capturing the photos, I may do some simple edits to enhance the photograph and ensure it accurately represents the artwork's beauty. This may include adjusting brightness, contrast, and colour saturation to match the artwork's true appearance.
 
 ### Importance of Authentic Imagery
 
@@ -251,9 +249,44 @@ Here are some examples of the artwork photographs taken with the iPhone 12 for t
 - [Photo 2](documentation)
 - [Photo 3](documentation)
 
-These photographs demonstrate the clarity, detail, and colors captured with the iPhone 12, providing potential buyers with a true-to-life view of the artwork available for purchase.
+These photographs demonstrate the clarity, detail, and colours captured with the iPhone 12, providing potential buyers with a true-to-life view of the artwork available for purchase.
 
 ## Mockup
+For the Art with Amanda website, I created mockups to visualize the layout and design before development. These mockups were created using Wix, allowing me to experiment with different designs and user interfaces. Mockups help in understanding the overall structure of the website and provide a preview of how the final product will look and feel.
+
+### Mockup Tool Used
+
+I used **Wix** to create the mockups for Art with Amanda. Wix's drag-and-drop interface enabled me to design and customize various elements of the website easily.
+
+### Screens Mocked Up
+
+I created mockups for six key screens to explore different aspects of the website:
+
+1. **Home Page**: This includes the main landing area, about the artist, and navigation.
+
+2. **Artwork Listing Page**: A page showcasing all artworks with filtering and sorting options.
+
+3. **Artwork Detail Page**: Detailed view of a single artwork with description, price, and options to purchase.
+
+5. **Contact Page**: Form for visitors to reach out to Amanda for inquiries, commissions, or collaborations.
+
+6. **Shopping Cart and Checkout**: Layout for viewing items in the cart, adjusting quantities, and completing the purchase through Stripe integration.
+
+### Benefits of Mockups
+
+- **Visualization**: Mockups provide a visual representation of the website's structure and layout.
+- **Feedback**: They help gather feedback from stakeholders and potential users before development.
+- **Planning**: Mockups aid in planning the user experience (UX) and user interface (UI) design.
+
+### Example Mockup
+
+Below is an example of the mockup for the Home Page created using Wix:
+
+![Home Page Mockup](documentation)
+
+### Next Steps
+
+With the mockups finalized, I used them as a reference during the development phase to ensure the website aligns with the original vision and meets user needs effectively.
 
 ## Rationale for Development
 
