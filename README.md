@@ -1,6 +1,6 @@
 # Art with Amanda 
 
-Art with Amanda is a full stack e-commerce website built using Django, Python, HTML, CSS and JavaScript. This website utilises Stripe as the payment option. This project was created as my fourth and final milestone project for my Level 5 Diploma in Web Development with Code Institute.
+Art with Amanda is a full-stack e-commerce website that I developed as my final milestone project for the Level 5 Diploma in Web Development with Code Institute. As an artist, I built this platform using Django, Python, HTML, CSS, and JavaScript to showcase and sell my original artworks and prints. With Stripe integration for secure payments, the website provides a user-friendly interface where visitors can explore a diverse collection of my artwork, view detailed descriptions, and make purchases seamlessly. This project not only highlights my artistic endeavors but also demonstrates my proficiency in web development, combining my passion for art with modern technologies to create an engaging online gallery experience.
 
 [View website here]()
 
@@ -49,7 +49,7 @@ As the site owner of Art with Amanda, my primary goals for this website are to:
 
 By achieving these goals, I aim to not only sell my artworks but also build a lasting connection with my audience and grow my presence in the art community.
 
-## User Goals
+### User Goals
 
 As a visitor to the Art with Amanda website, my goals are to:
 
