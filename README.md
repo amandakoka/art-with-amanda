@@ -112,11 +112,11 @@ After collecting extensive feedback from both my Instagram community and prelimi
 
 Here are the results of the polls:
 
-![Poll 1 Screenshot](documentation/UserFeedbackPolls/IMG_3129.PNG)
-![Poll 2 Screenshot](documentation/UserFeedbackPolls/IMG_3130.jpg)
-![Poll 3 Screenshot](documentation/UserFeedbackPolls/IMG_3131.jpg)
-![Poll 4 Screenshot](documentation/UserFeedbackPolls/IMG_3132.jpg)
-![Poll 5 Screenshot](documentation/UserFeedbackPolls/IMG_3133.jpg)
+- [Poll 1 Screenshot](documentation/UserFeedbackPolls/IMG_3129.PNG)
+- [Poll 2 Screenshot](documentation/UserFeedbackPolls/IMG_3130.jpg)
+- [Poll 3 Screenshot](documentation/UserFeedbackPolls/IMG_3131.jpg)
+- [Poll 4 Screenshot](documentation/UserFeedbackPolls/IMG_3132.jpg)
+- [Poll 5 Screenshot](documentation/UserFeedbackPolls/IMG_3133.jpg)
 
 ### Incorporating Feedback
 
