@@ -196,6 +196,12 @@ With the wireframes finalized, I used them as a blueprint during the development
 
 In developing the Art with Amanda website, I prioritized a modern and simplistic design to ensure that my artwork remains the focal point. Based on user feedback, I selected a colour palette consisting of different shades of white and black. This neutral colour scheme helps to create a clean, elegant, and professional look that doesn't distract from the art photos.
 
+<details>
+<summary>Colour Palette</summary>
+<br>
+<img src"documentation/colourpalette.png">
+</details>
+
 The following is an overview of how the colour scheme is applied across different sections of the website:
 
 - **Backgrounds**: The primary background colour is white, providing a bright and clean canvas for the artwork.
