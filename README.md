@@ -176,8 +176,34 @@ In the initial stages of designing Art with Amanda, I created rough sketches to 
 - [Photo 3](documentation/Wireframes1/IMG_3141_2.jpg)
 - [Photo 4](documentation/Wireframes1/IMG_3142_2.jpg)
 
+### Final Wireframes 
+
+After refining my initial sketches, I created detailed wireframes using Figma. These wireframes provide a more precise and polished representation of the website's layout and functionality. Below are the finalised wireframes:
+
+- **Home Page**:
+
 ## Colour Schemes
+
+In developing the Art with Amanda website, I prioritized a modern and simplistic design to ensure that my artwork remains the focal point. Based on user feedback, I selected a color palette consisting of different shades of white and black. This neutral color scheme helps to create a clean, elegant, and professional look that doesn't distract from the art photos.
+
+![Color Palette](documentation/colourpalette.png)
+
+The following is an overview of how the color scheme is applied across different sections of the website:
+
+- **Backgrounds**: The primary background color is white, providing a bright and clean canvas for the artwork.
+- **Text**: The main text color is black, and white on dark backgrounds, ensuring high readability and contrast.
+- **Borders and Dividers**: A light grey is used for subtle borders and dividers, adding structure to the layout without drawing attention away from the artwork.
+- **Buttons and Links**: Buttons and interactive elements are styled in a black shade to stand out and be easily identifiable.
+
+### User Feedback Integration
+
+The decision to use a simple and neutral color scheme was directly influenced by user feedback. Through preliminary discussions and Instagram polls, users expressed a preference for a minimalist design that highlights the artwork rather than the website itself. By adopting this feedback, the final color scheme enhances the user experience and ensures that the artwork remains the central focus of the site.
+
+By maintaining a consistent and simplistic color scheme, the website provides a cohesive and enjoyable user experience that directs attention to the artwork while ensuring readability and ease of navigation.
+
 ## Typography 
+
+
 ## Imagery
 ## Mockup
 
