@@ -176,11 +176,21 @@ In the initial stages of designing Art with Amanda, I created rough sketches to 
 - [Photo 3](documentation/Wireframes1/IMG_3141_2.jpg)
 - [Photo 4](documentation/Wireframes1/IMG_3142_2.jpg)
 
-### Final Wireframes 
+### Final Wireframes
 
-After refining my initial sketches, I created detailed wireframes using Figma. These wireframes provide a more precise and polished representation of the website's layout and functionality. Below are the finalised wireframes:
+After refining my initial sketches, I created detailed wireframes using Figma, a versatile and powerful design tool known for its collaborative features and ease of use. Figma allowed me to add images and create precise, polished representations of the website's layout. Below are the finalized wireframes:
 
-- **Home Page**:
+#### Home Page
+
+For the home page, I developed two different options and sought feedback from the Instagram community, as well as from family and friends, to determine which layout they preferred. The majority favored the first layout, so I decided to proceed with this design.
+
+- **Option 1**: [View Wireframe](documentation/FinalWireframes/wf1.png)
+- **Option 2**: [View Wireframe](documentation/FinalWireframes/wf2.png)
+
+### Next Steps
+
+With the wireframes finalized, I used them as a blueprint during the development phase to ensure the website aligns with the chosen layout and effectively meets user needs.
+
 
 ## Colour Schemes
 
