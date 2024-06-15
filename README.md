@@ -192,7 +192,7 @@ For the home page, I developed two different options and sought feedback from th
 With the wireframes finalized, I used them as a blueprint during the development phase to ensure the website aligns with the chosen layout and effectively meets user needs.
 
 
-## Colour Schemes
+## Colour Scheme
 
 In developing the Art with Amanda website, I prioritized a modern and simplistic design to ensure that my artwork remains the focal point. Based on user feedback, I selected a colour palette consisting of different shades of white and black. This neutral colour scheme helps to create a clean, elegant, and professional look that doesn't distract from the art photos.
 
