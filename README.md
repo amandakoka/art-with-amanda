@@ -199,7 +199,7 @@ In developing the Art with Amanda website, I prioritized a modern and simplistic
 <details>
 <summary>Colour Palette</summary>
 <br>
-<img src"documentation/colourpalette.png">
+<img src="documentation/colourpalette.png">
 </details>
 
 The following is an overview of how the colour scheme is applied across different sections of the website:
