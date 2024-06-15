@@ -77,7 +77,46 @@ Before the development of Art with Amanda began, user feedback was actively coll
 
 - **Preliminary Discussions**: Had discussions and gathered suggestions from art friends and family members to understand their preferences, behaviors, and needs as potential buyers and art enthusiasts.
 
-- **Instagram Community Feedback**: Posted questions on my Instagram story (artwithamanda_) asking followers what they would like to see on an art selling website and gathered valuable feedback and suggestions.
+- **Instagram Community Feedback**: Posted questions and polls on my Instagram story (artwithamanda_) asking followers what they would like to see on an art selling website and gathered valuable feedback and suggestions.
+
+### Key Points from Feedback
+
+After collecting extensive feedback from both my Instagram community and preliminary discussions with friends and family, several key points emerged. Here are the questions I asked and a summary of the majority responses:
+
+1. **What do you want to see on an art seller's website?**
+    - High-quality images of the artwork
+    - Detailed descriptions and background stories of each piece
+    - Easy navigation and categorization of art pieces
+
+2. **What features do you find most helpful in making purchasing decisions?**
+    - Clear pricing and size information
+    - User reviews and ratings
+    - Secure and straightforward payment options
+
+3. **What design elements do you prefer in an art selling website?**
+    - Clean and minimalist design
+    - High-contrast color schemes to highlight the artwork
+    - Intuitive layout with easy access to different sections
+
+4. **How important is mobile responsiveness to your browsing experience?**
+    - Extremely important: The majority of users emphasized the need for a mobile-friendly design
+    - Users expect a seamless experience across all devices
+
+#### Screenshots of Questions:
+- [Question 1 Screenshot](documentation/UserFeedback/Q1.JPG)
+- [Question 2 Screenshot](documentation/UserFeedback/Q2.JPG)
+- [Question 3 Screenshot](documentation/UserFeedback/Q3.JPG)
+- [Question 4 Screenshot](documentation/UserFeedback/Q4.JPG)
+
+### Poll Results
+
+Here are the results of the polls:
+
+![Poll 1 Screenshot](documentation/UserFeedbackPolls/IMG_3129.PNG)
+![Poll 2 Screenshot](documentation/UserFeedbackPolls/IMG_3130.jpg)
+![Poll 3 Screenshot](documentation/UserFeedbackPolls/IMG_3131.jpg)
+![Poll 4 Screenshot](documentation/UserFeedbackPolls/IMG_3132.jpg)
+![Poll 5 Screenshot](documentation/UserFeedbackPolls/IMG_3133.jpg)
 
 ### Incorporating Feedback
 
