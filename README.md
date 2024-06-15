@@ -220,6 +220,29 @@ The consistent use of these two fonts helps to create a cohesive and elegant loo
 By carefully selecting and pairing these fonts, the website achieves a harmonious visual experience that enhances readability while maintaining an elegant and professional appearance. This thoughtful typography choice reflects the overall aesthetic of the Art with Amanda brand, balancing artistic elegance with modern design principles.
 
 ## Imagery
+
+The imagery for the Art with Amanda website plays a crucial role in showcasing the artwork in its best light. All photographs of my art are captured using an iPhone 12, which is the primary camera I have available. I aim to capture the artworks as close to their real appearance as possible, with minimal editing to ensure authenticity and preserve the artwork's natural beauty.
+
+### Photography Process
+
+1. **Capture**: Using the iPhone 12, I carefully photograph each artwork to ensure that the colors are accurate and the details are captured as they appear in real life.
+   
+2. **Minimal Editing**: After capturing the photos, I may do some simple edits to enhance the photograph and ensure it accurately represents the artwork's beauty. This may include adjusting brightness, contrast, and color saturation to match the artwork's true appearance.
+
+### Importance of Authentic Imagery
+
+Authentic and high-quality imagery is crucial for an online art gallery as it allows potential buyers to see the artwork in detail and make informed decisions about their purchases. By using the iPhone 12 as my primary camera and minimizing editing, I ensure that each piece is represented authentically, creating a compelling visual experience for visitors to the website.
+
+### Sample Photographs
+
+Here are some examples of the artwork photographs taken with the iPhone 12 for the Art with Amanda website:
+
+- [Photo 1](documentation/Imagery/jake_drawing.jpg)
+- [Photo 2](documentation)
+- [Photo 3](documentation)
+
+These photographs demonstrate the clarity, detail, and colors captured with the iPhone 12, providing potential buyers with a true-to-life view of the artwork available for purchase.
+
 ## Mockup
 
 ## Rationale for Development
