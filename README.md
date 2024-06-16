@@ -252,8 +252,8 @@ Authentic and high-quality imagery is crucial for an online art gallery as it al
 Here are some examples of the artwork photographs taken with the iPhone 12 for the Art with Amanda website:
 
 - [Photo 1](documentation/Imagery/jake_drawing.jpg)
-- [Photo 2](documentation)
-- [Photo 3](documentation)
+- [Photo 2](documentation/Imagery/IMG_3255.jpg)
+- [Photo 3](documentation/Imagery/zoOQO.jpeg)
 
 These photographs demonstrate the clarity, detail, and colours captured with the iPhone 12, providing potential buyers with a true-to-life view of the artwork available for purchase.
 
