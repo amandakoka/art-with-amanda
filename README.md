@@ -186,6 +186,46 @@ For the home page, I developed two different options and sought feedback from th
 
 - **Option 1**: [View Wireframe](documentation/FinalWireframes/wf1.png)
 - **Option 2**: [View Wireframe](documentation/FinalWireframes/wf2.png)
+- **Phone View**: [View Wireframe](documentation/FinalWireframes/homepagephone.png)
+- **Tablet View**: [View Wireframe](documentation/FinalWireframes/homepagetablet.png)
+
+#### Shop Page
+
+The shop page was designed to provide a seamless shopping experience across different devices. It features a clean layout that highlights the products, with easy filtering and sorting options to help users find what they are looking for quickly. The wireframes include detailed views for different devices:
+
+- **Desktop View**: [View Wireframe](documentation/FinalWireframes/Screenshot%202024-06-18%20at%2014.52.42.png)
+- **Phone View**: [View Wireframe](documentation/FinalWireframes/shoppagephone.png)
+- **Tablet View**: [View Wireframe](documentation/FinalWireframes/Screenshot%202024-06-18%20at%2014.56.13.png)
+
+#### Art Product Page
+
+The art product page showcases individual artworks with detailed descriptions and images. This page is designed to provide all the necessary information about each piece, including high-quality images, descriptions, quantity, and pricing. The wireframes demonstrate how these elements are organized for clarity and ease of use:
+
+- **Desktop View**: [View Wireframe](documentation/FinalWireframes/artfdetaildesktop.png)
+- **Phone View**: [View Wireframe](documentation/FinalWireframes/artdetailphone.png)
+
+#### Contact Page
+
+The contact page ensures users can easily reach out with inquiries or feedback. It includes a straightforward contact form, clear instructions, and additional contact information such as email and phone numbers. This page is designed to be user-friendly and accessible:
+
+- **Desktop View**: [View Wireframe](documentation/FinalWireframes/contactpagedesktop.png)
+
+#### Account/Login/Sign Up Page
+
+The account, login, and sign up pages were designed to streamline the user authentication process, ensuring a smooth and user-friendly experience. These wireframes include the following features:
+
+- **Account Page**: Allows users to view and update their personal information, manage their password, and view their order history.
+- **Login Page**: Provides a simple and secure interface for users to enter their credentials and access their accounts. It includes options for forgotten passwords and social media logins.
+- **Sign Up Page**: Offers a straightforward registration form for new users, with fields for necessary personal information and security features to protect user data.
+
+#### Shopping Bag Page
+
+The shopping bag page wireframes were designed to provide users with a clear overview of their selected items, allowing for easy modifications to quantities and facilitating a straightforward checkout process. Key features include:
+
+- **Item List**: Displays all selected items with thumbnails, names, prices, and quantity selectors.
+- **Total Price**: Shows a summary of the total cost.
+- **Checkout Button**: A prominent button that directs users to the secure checkout page.
+- **Remove Item Option**: Allows users to easily remove items from their shopping bag.
 
 ### Next Steps
 
@@ -288,7 +328,7 @@ I created mockups for six key screens to explore different aspects of the websit
 
 Below is an example of the mockup for the Home Page created using Wix:
 
-![Home Page Mockup](documentation)
+![Home Page Mockup](documentation/Screenshot%202024-06-17%20at%2019.39.39.png)
 
 ### Next Steps
 
