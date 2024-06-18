@@ -328,7 +328,7 @@ I created mockups for six key screens to explore different aspects of the websit
 
 Below is an example of the mockup for the Home Page created using Wix:
 
-![Home Page Mockup](documentation/Screenshot%202024-06-17%20at%2019.39.39.png)
+- [Home Page Mockup](documentation/Screenshot%202024-06-17%20at%2019.39.39.png)
 
 ### Next Steps
 
