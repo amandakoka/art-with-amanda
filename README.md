@@ -18,7 +18,7 @@ Art with Amanda is a full-stack e-commerce website that I developed as my final 
     - [Typography](#typography)
     - [Imagery](#imagery)
     - [Mockup](#mockup)
-2. [Rationalle for Development](rationalle-for-development)
+2. [Rationalle for Development](#rationalle-for-development)
 3. [Features](#features)
 4. [Technologies Used](#technologies-used)
     -  [Languages](#languages)
